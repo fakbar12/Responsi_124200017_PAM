@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "32302203827",
+    "project_id": "fir-124200017",
+    "storage_bucket": "fir-124200017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32302203827:android:5b042866ce819fd4a301c6",
+        "android_client_info": {
+          "package_name": "upn.jogja.praktikum_mobile_si"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32302203827-qbb0h18glbbf760ipq2vh9m6mpf3o94q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoI5ogk49LA1LYL8g6qlngjnBWr3vF_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32302203827-qbb0h18glbbf760ipq2vh9m6mpf3o94q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32302203827-fb26r2ia7asn9qsac5jerarboglcs2so.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "upn.jogja.praktikumMobileSi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
